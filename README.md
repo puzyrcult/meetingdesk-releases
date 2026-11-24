@@ -12,7 +12,7 @@ MeetingDesk записывает ваш микрофон и звук компь�
 
 | Система | Установщик | Требования |
 | --- | --- | --- |
-| Mac | [Скачать для Apple Silicon](https://github.com/puzyrcult/meetingdesk-releases/releases/download/v0.5.1/MeetingDesk-0.5.1-darwin-arm64.zip) | M1 и новее, macOS 14.2+ для записи системного звука |
+| Mac | [Скачать DMG для Apple Silicon](https://github.com/puzyrcult/meetingdesk-releases/releases/download/v0.5.1/MeetingDesk-0.5.1-darwin-arm64.dmg) | M1 и новее, macOS 14.2+ для записи системного звука |
 | Windows | [Скачать установщик x64](https://github.com/puzyrcult/meetingdesk-releases/releases/download/v0.5.1/MeetingDesk-0.5.1-win32-x64.exe) | Windows x64 |
 
 [Все выпуски](https://github.com/puzyrcult/meetingdesk-releases/releases) · [Подробная инструкция](GUIDE.md) · [История версий](CHANGELOG.md)
@@ -65,7 +65,7 @@ Mac Intel в текущем выпуске не представлен. Сбор
 
 ## Первый запуск за несколько шагов
 
-1. На Mac распакуйте архив и перенесите MeetingDesk в **Программы**. На Windows запустите установщик.
+1. На Mac откройте DMG и перетащите MeetingDesk на значок **Applications (Программы)**. Дождитесь копирования, извлеките образ и запускайте приложение из «Программ». На Windows запустите установщик.
 2. Откройте настройки, добавьте [API-ключ Deepgram](https://console.deepgram.com/) и сохраните.
 3. Для конспектов выберите **Подписка ChatGPT → Continue with ChatGPT**, завершите вход в браузере и выберите доступную модель. Либо подключите OpenAI API своим ключом.
 4. При необходимости выберите папку хранилища Obsidian.
