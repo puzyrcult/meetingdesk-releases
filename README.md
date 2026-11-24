@@ -6,14 +6,14 @@ MeetingDesk записывает ваш микрофон и звук компь�
 
 Приложение работает на вашем компьютере: приглашать бота на встречу не нужно. Распознавание выполняет Deepgram, конспекты создаются через подключение ChatGPT или OpenAI API.
 
-> Версия **0.5.0 подготовлена к публикации**. В разделе скачивания пока доступна опубликованная **0.4.0**. Notion, Google Календарь и предложения записи доступны с настройкой подключений. Бот для встреч пока не реализован.
+> Текущая версия — **0.5.0, тестовая сборка**. Notion, Google Календарь и предложения записи доступны с настройкой подключений. Бот для встреч пока не реализован.
 
 ## Скачать
 
 | Система | Установщик | Требования |
 | --- | --- | --- |
-| Mac | [Скачать для Apple Silicon](https://github.com/puzyrcult/meetingdesk-releases/releases/download/v0.4.0/MeetingDesk-0.4.0-darwin-arm64.zip) | M1 и новее, macOS 14.2+ для записи системного звука |
-| Windows | [Скачать установщик x64](https://github.com/puzyrcult/meetingdesk-releases/releases/download/v0.4.0/MeetingDesk-0.4.0-win32-x64.exe) | Windows x64 |
+| Mac | [Скачать для Apple Silicon](https://github.com/puzyrcult/meetingdesk-releases/releases/download/v0.5.0/MeetingDesk-0.5.0-darwin-arm64.zip) | M1 и новее, macOS 14.2+ для записи системного звука |
+| Windows | [Скачать установщик x64](https://github.com/puzyrcult/meetingdesk-releases/releases/download/v0.5.0/MeetingDesk-0.5.0-win32-x64.exe) | Windows x64 |
 
 [Все выпуски](https://github.com/puzyrcult/meetingdesk-releases/releases) · [Подробная инструкция](GUIDE.md) · [История версий](CHANGELOG.md)
 
